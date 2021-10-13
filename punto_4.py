@@ -6,7 +6,7 @@ for numero in numeros:
 
 
 numero_b= 0
-while numero_b <= 5:
-    numero_b= numero_b + 1
+while numero_b < 5:
     print("la condicion se cumplio")
+    numero_b= numero_b + 1
 
