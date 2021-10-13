@@ -61,5 +61,34 @@ e- Para actualizar los cambios ya subidos al repo remoto, usamos git pull.
 
 Punto 6) 
 
+conozco (de las que mas recuerdo): 
+enumerate() => Sirve para enumerar y colocar en un "id" o posicion cada elemento.
+map() => Sirve para resolver fn dentro de cada elemento. 
+filter()  => Filtra los elementos retornando la condicion que le aplicas, y los imprime luego.
+
+NOTA: hay muchas mas funciones de orden superios, estas son las que mejor puedo expicar en mis palabras :)
+
+Punto 7) 
+
+a- El yield "pausa" la fn y guarda la variable hasta que la vuelvas a usar 
+mientras que el return te fuerza a ejecutar a cada rato la fn para guardar la variable
+
+
+Punto 8)
+
+El beneficio sería que otro puede ver que importaste y de donde, y reutilizar funciones.
+
+Punto 9)
+
+a- La palabra reservada para manejar una excepcion es try.
+
+b- Con la sentencia except, donde se pone el error qe te daria.
+
+Punto 10) 
+
+
+
+
+
 
 
