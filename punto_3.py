@@ -1,5 +1,7 @@
 
-mi_variable = 4
+# mi_variable = 4
+
+mi_variable = 7
 
 if mi_variable == 0:
           print("Ha ingresado a la primera validación.")
