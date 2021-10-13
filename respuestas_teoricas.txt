@@ -18,10 +18,20 @@ Boolean
 * La diferencia está en que el Int es un dato numerico tipo entero y Float numerico de tipo decimal.
 
 b- Tipos de colecciones: 
+List 
+Tupla
+Dict
 
-*
-*
-*
+* A los tipos list se les puede añadir datos despues de creada, la tupla no.
 
+Punto 3) 
+
+a- El codigo que se muestra por consola es:  "Ha ingresado a la segunda validación." 
+porque al ejecutarlo y revisando las condiciones pasa esto: 
+
+-La primer condicion nunca va a ser igual a 0, porque ya declaraste la variable en 4.
+-La segunda sí se cumple porque 4 es mayor que 3.
+-la tercera no se cumple porque esta variable nunca cambia de valor, sigue siendo 4.
+-la cuarta no pasa, porque una de las condiciones anteriores si se cumplio. 
 
 
