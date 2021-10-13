@@ -24,16 +24,8 @@ def multiplicacion():
     resultado= numero1 * numero2
     print("El resultado de la multiplicacion es: ", resultado)
 
-def par_impar():
-    numero1 = int(input("ingrese un numero: "))
-    numero2 = int(input("ingrese otro numero: "))
-    numeros = [numero1, numero2]
+
     
     
 
 
-def acumulador():
-    numero1= int(input("Ingrese el numero a acumular: "))
-    # numero1 += 1
-    resultado = numero1 + 1
-    print("El resultado de la multiplicacion es: ", numero1)

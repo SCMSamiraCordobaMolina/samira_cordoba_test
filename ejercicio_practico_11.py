@@ -1,4 +1,4 @@
-from modulo_ejercicio_11 import suma, resta, division, multiplicacion, par_impar, acumulador
+from modulo_ejercicio_11 import suma, resta, division, multiplicacion
 
 
 menu= """  menu
@@ -6,13 +6,12 @@ menu= """  menu
         2- resta
         3- division
         4- multiplicacion 
-        5- pares e impares
-        6-acumulador 
         """
 
 print (menu)
 
 opcion= int(input("ingrese una opcion: "))
+
 
 if opcion == 1: 
     suma()
@@ -26,12 +25,7 @@ elif opcion == 3:
 elif opcion == 4: 
     multiplicacion()
     
-elif opcion == 5: 
-    par_impar()
 
-elif opcion == 6: 
-    acumulador()
-    
 
 
 
