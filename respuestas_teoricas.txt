@@ -86,6 +86,8 @@ b- Con la sentencia except, donde se pone el error qe te daria.
 
 Punto 10) 
 
+Basicamente un decorador es "editar" el codigo de una funcion sin hacerle cambios al codigo original
+y sin tener que usar herencia.
 
 
 
