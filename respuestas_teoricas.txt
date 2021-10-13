@@ -26,12 +26,27 @@ Dict
 
 Punto 3) 
 
-a- El codigo que se muestra por consola es:  "Ha ingresado a la segunda validación." 
+a- El print que se muestra por consola es:  "Ha ingresado a la segunda validación." 
 porque al ejecutarlo y revisando las condiciones pasa esto: 
 
 -La primer condicion nunca va a ser igual a 0, porque ya declaraste la variable en 4.
 -La segunda sí se cumple porque 4 es mayor que 3.
 -la tercera no se cumple porque esta variable nunca cambia de valor, sigue siendo 4.
 -la cuarta no pasa, porque una de las condiciones anteriores si se cumplio. 
+
+b- El mensaje por consola dice: "Ha ingresado a la segunda validación."
+porque aunque ahora sí se cumple la tercer condicion, tambien se cumple la segunda, 
+ademas de ser redundante, se ejecuta el bloque de codigo de lo primero que se cumpla. 
+
+
+Punto 4)
+a- Un bucle for termina cuando la condicion que recorre, donde la variable por ejemplo,
+cambie de True a False.
+
+b- Un bucle while termina cuando la condicion que tiene no se cumpla mas, se puede hacer  con una bandera,
+o bien se puede cortar con la palabra reservada break.
+
+
+
 
 
