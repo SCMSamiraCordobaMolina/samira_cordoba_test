@@ -4,3 +4,9 @@ for numero in numeros:
     print(numero)
 
 
+
+numero_b= 0
+while numero_b <= 5:
+    numero_b= numero_b + 1
+    print("la condicion se cumplio")
+
