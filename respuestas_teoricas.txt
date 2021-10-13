@@ -1,0 +1,27 @@
+Punto 1) 
+
+a- El script de python se genera con la extension ".py". 
+Por ejemplo: extension_del_sript.py 
+
+b- Una variable es un lugar donde yo puedo guardar un dato de cualquier tipo, 
+bajo un nombre claro y descriptivo cuando lo lea.
+
+Punto 2) 
+
+a- Son cuatros tipos de datos: 
+
+String
+Int 
+Float
+Boolean
+
+* La diferencia está en que el Int es un dato numerico tipo entero y Float numerico de tipo decimal.
+
+b- Tipos de colecciones: 
+
+*
+*
+*
+
+
+
