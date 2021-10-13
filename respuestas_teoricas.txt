@@ -46,7 +46,20 @@ cambie de True a False.
 b- Un bucle while termina cuando la condicion que tiene no se cumpla mas, se puede hacer  con una bandera,
 o bien se puede cortar con la palabra reservada break.
 
+Punto 5) 
 
+a- git se compone de 3 areas: Working Directory, Staging Area, Repository. 
+
+b- Git add es el comando para pasar los cambios.
+
+c- Con el comando git commit -m 'creando un commit'se crea un commit.
+
+d- Con el comando git push, enviamos nuestros cambios locales al repositorio remoto.
+
+e- Para actualizar los cambios ya subidos al repo remoto, usamos git pull. 
+
+
+Punto 6) 
 
 
 
