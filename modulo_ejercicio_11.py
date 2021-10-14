@@ -24,7 +24,14 @@ def multiplicacion():
     resultado= numero1 * numero2
     print("El resultado de la multiplicacion es: ", resultado)
 
+# def pares_impares() :
+#     numeros= int(input("ingrese 10 numeros: "))
+#     lista= [numeros]
+#     print(lista)
 
+# def acumulador() :
+#     dict= {zip ('n1,n2,n3,n4,n5,n6,n7,n8,n9,n10'[])}
+#     print(dict)
     
     
 

@@ -6,6 +6,8 @@ menu= """  menu
         2- resta
         3- division
         4- multiplicacion 
+        5- par e impar
+        6- acumulador
         """
 
 print (menu)
@@ -24,6 +26,12 @@ elif opcion == 3:
 
 elif opcion == 4: 
     multiplicacion()
+    
+# elif opcion==5:
+#     pares_impares()
+    
+# elif opcion== 6:
+#     acumulador()
     
 
 
